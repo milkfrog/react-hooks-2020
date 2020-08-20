@@ -1,4 +1,2 @@
 # react-hooks-2020
-Repository to commit files used in the react hooks course (https://www.udemy.com/course/react-hooks/)
-
-teste ssh partição nova
+Repositório criado visando aprender os Hooks do React a partir da documentação (https://pt-br.reactjs.org/docs/hooks-overview.html)
